@@ -45,3 +45,22 @@ C. Información del cliente
 D. Duración del viaje
 - Tiempo total de viaje
 - Tiempo promedio de viaje
+
+
+## REFACTORING
+
+Se consolidan las siguientes cifras y se generan también por cada ciudad:
+
+A. Estaciones y viaje más populares
+- Top de la Estación (s) de salida más recurrente
+- Top de la estación (s) final más utilizada por los usuarios.
+- viaje más común de principio a fin
+
+C. Información del cliente
+- Contador de cada tipo de usuario
+- Contador por género (Nueva York y Chicago)
+- Año de nacimiento más temprano, más reciente y más común (Nueva York y Chicago)
+
+D. Duración del viaje
+- Tiempo total de viaje por las tres ciudades y consolidado.
+- Tiempo promedio de viaje por las tres ciudades y en total.
