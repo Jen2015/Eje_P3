@@ -39,7 +39,7 @@ Estaciones populares y viaje
 Duración del viaje
 - tiempo total  y Tiempo promedio de viaje
 
-4. Información de usuario
+Información de usuario
 - Conteo de cada tipo de usuario
 - Conteo cada género (Nueva York y Chicago)
 - Año de nacimiento más temprano, más reciente y más común (unicamente para Nueva York y Chicago)
