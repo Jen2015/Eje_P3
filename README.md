@@ -1,6 +1,5 @@
 # Eje_P3
-# Proyecto 3 del curso programación en Phyton
-# Código elaborado en Python analizando los datos de bicicletas compartidas en tres ciudades Chicago, Whashigton y Nueva York
+# Proyecto 3 del curso programación en Phyton - Código  que analiza los datos de bicicletas compartidas en Chicago, Whashigton y Nueva York
 
 
 ## Ejecución del script
