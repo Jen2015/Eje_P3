@@ -28,21 +28,21 @@ Los archivos de Chicago y Nueva York tienen adicionalmente las 2 columnas:
 Se genera con el código la información:
 
 A. Estaciones y viaje más populares
-- estación de salida más recurrente
-- estación final más utilizada por los usuarios.
+- Top de la Estación (s) de salida más recurrente
+- Top de la estación (s) final más utilizada por los usuarios.
 - viaje más común de principio a fin
 
 
 B. Horas de inicio populares de viaje (más frecuente)
-- mes más frecuente
-- día de la semana más común
-- la hora con mayor recorrido en el día
+- Mes con mayor cantidad de viajes
+- Día de la semana más común
+- Hora con mayor recorrido en el día
 
 C. Información del cliente
 - Contador de cada tipo de usuario
 - Contador por género (Nueva York y Chicago)
-- año de nacimiento más temprano, más reciente y más común (Nueva York y Chicago)
+- Año de nacimiento más temprano, más reciente y más común (Nueva York y Chicago)
 
 D. Duración del viaje
-- tiempo total de viaje
-- tiempo promedio de viaje
+- Tiempo total de viaje
+- Tiempo promedio de viaje
